@@ -21,7 +21,7 @@ executive team along with your high-level recommendations for Bellabeat’s mark
 
 ## Characters and products
 
-* Characters
+**Characters**
 
             Urška Sršen: Bellabeat’s cofounder and Chief Creative Officer
        
@@ -31,7 +31,7 @@ executive team along with your high-level recommendations for Bellabeat’s mark
               reporting data that helps guide Bellabeat’s marketing strategy. You joined this team six months ago and have
               been busy learning about Bellabeat’’s mission and business goals — as well as how you, as a junior data analyst,
               can help Bellabeat achieve them.
-* Products
+**Products**
 
             Bellabeat app: The Bellabeat app provides users with health data related to their activity, sleep, stress,
               menstrual cycle, and mindfulness habits. This data can help users better understand their current habits and
